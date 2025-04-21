@@ -1,9 +1,7 @@
 
 
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 ###
 
@@ -19,15 +17,12 @@
 
 ###
 
-<p align="left">I'm Fathima Sahathiya Serin<br><br>- 🔭 A self taught MERN Stack Developer<br>- 📚 I'm currently learning Mysql and JQuery<br>- 👯 I’m looking to collaborate in the field of web development <br> ✉️ How to reach me <a href="shahadiyafathima04@gmail.com">shahadiyafathima04@gmail.com</a></p>
+<p align="left">I'm Fathima Sahathiya Serin<br><br>- 🔭 A self taught MERN Stack Developer<br>- 📚 I'm currently learning Mysql and JQuery<br>- 👯 I’m looking to collaborate in the field of web development <br> ✉️ How to reach me: <a href="mailto:shahadiyafathima04@gmail.com">shahadiyafathima04@gmail.com</a>
+ </p>
 
 ###
-<h3>🌐Social media</h3>
-<div align="start">
-<a href="www.linkedin.com/in/fathimashahadiya"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
- <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=080807&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
-  
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fathimashahadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahadiyafathima04@gmail.com) 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -76,5 +71,15 @@
  
 </div>
 
-###
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sahathiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sahathiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahathiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sahathiya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
